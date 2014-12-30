@@ -1,8 +1,10 @@
 Intel Mashery Logo
 =============
 
-Formats available - AI, JPG, PNG, PSD. Just download the zip, and use the format that works for you.
+Formats available - .ai, .jpg, .png, and .psd
 
-Questions?
+Just download the zip, and use the format that works for you.
 
-Tweet us at [@MasheryDev](http://twitter.com/masherydev)
+---
+
+Questions? Tweet us at [@MasheryDev](http://twitter.com/masherydev)
