@@ -1,4 +1,4 @@
-mashery-logos
+Intel Mashery Logo
 =============
 
-Mashery/Intel Logos
+Intel Mashery Logo in all format flavors!
